@@ -1,32 +1,26 @@
-## hey, i'm dee 👋
+### Hey, I'm Dee (Dmitry Kargaev)
 
-**product designer → ai engineer** from los angeles
+Product designer turned AI engineer. Based in LA.
 
-15 years building products. spent 5 years as lead product designer at [VALK](https://datai.network) — fintech infra used by 70+ banks across 15 countries ($4B+ in transactions). designed features shipped to 5M ledger live users.
+10+ years of design, 6+ in fintech. Was the solo product designer at [VALK](https://datai.network/) (now DatAI Network) for 5 years — institutional platform with $4B+ in transaction volume, 70+ banks across 15 countries. Before that I led design at Spacecode studio in Moscow, shipping 50+ apps for clients like Kaspersky and OTPBank.
 
-now i build ai agent systems, rust cli tools, and multi-agent architectures. i run [dee.agency](https://dee.agency) — solo design + ai studio for founders.
-
-### what i'm building
-
-| project | what it does |
-|---------|-------------|
-| [**mcclaw**](https://mcclaw.it.com) | find which local llms actually run on your mac hardware. 340+ models |
-| [**codemode**](https://cm.deeflect.com) | give your ai agent any api in ~1,000 tokens. 56 apis, one mcp server |
-| [**dee.ink**](https://dee.ink) | 31 rust cli tools built for ai agents. json output, pipe-friendly |
-| [**castkit**](https://github.com/deeflect/castkit) | cli demo videos from a single command. no recording, no editing |
-| [**smart spawn**](https://ss.deeflect.com) | intelligent model routing for ai agents. picks the right llm per task |
-| [**vasted**](https://github.com/deeflect/vasted) | gpu inference in one command. vast.ai launcher + openai-compatible endpoint |
-
-### stack
-
-`rust` `typescript` `react` `next.js` `python` `swiftui` `tailwind` `astro`
-
-`multi-agent systems` `mcp servers` `rag pipelines` `llm tool calling` `design systems`
-
-### links
-
-[website](https://deeflect.com) · [blog](https://blog.deeflect.com) · [studio](https://dee.agency) · [linkedin](https://linkedin.com/in/dkargaev) · [x](https://x.com/deeflectcom)
+Now I'm building AI agent systems, multi-agent architectures, and open-source tools. I run [dee.agency](https://dee.agency) — solo design + AI studio for founders.
 
 ---
 
-*bs in cybersecurity · vegan · adhd is a feature · async only*
+**What I'm working on:**
+
+| | |
+|---|---|
+| [McClaw](https://mcclaw.it.com) | Find which local LLMs actually run on your Mac. 340+ models |
+| [codemode](https://cm.deeflect.com) | Give your AI agent any API in ~1,000 tokens. 56 APIs, one MCP server |
+| [dee.ink](https://dee.ink) | 31 Rust CLI tools for AI agents. JSON output, pipe-friendly |
+| [castkit](https://github.com/deeflect/castkit) | CLI demo videos from one command. No recording, no editing |
+| [Smart Spawn](https://ss.deeflect.com) | Intelligent model routing — picks the right LLM per task |
+| [vasted](https://github.com/deeflect/vasted) | GPU inference in one command via Vast.ai |
+| [MoltedIn](https://moltedin.com) | Marketplace for AI sub-agents |
+| [Lobster Tools](https://lobster.tools) | Curated directory of OpenClaw tools |
+
+**Stack:** TypeScript, Rust, React, Next.js, Python, SwiftUI, Tailwind, Astro
+
+**Links:** [Website](https://deeflect.com) · [Blog](https://blog.deeflect.com) · [Studio](https://dee.agency) · [LinkedIn](https://linkedin.com/in/dkargaev) · [X](https://x.com/deeflectcom)
