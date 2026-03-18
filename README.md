@@ -2,9 +2,9 @@
 
 Product designer turned AI engineer. Based in LA.
 
-10+ years of design, 6+ in fintech. Was the solo product designer at [VALK](https://datai.network/) (now DatAI Network) for 5 years — institutional platform with $4B+ in transaction volume, 70+ banks across 15 countries. Before that I led design at Spacecode studio in Moscow, shipping 50+ apps for clients like Kaspersky and OTPBank.
+10+ years of design, 6+ in fintech. Was the solo product designer at [VALK](https://datai.network/) (now DatAI Network) for 5 years, institutional platform with $4B+ in transaction volume, 70+ banks across 15 countries. Before that I led design at Spacecode studio in Moscow, shipping 50+ apps for clients like Kaspersky and OTPBank.
 
-Now I'm building AI agent systems, multi-agent architectures, and open-source tools. I run [dee.agency](https://dee.agency) — solo design + AI studio for founders.
+Now I'm building AI agent systems, multi-agent architectures, and open-source tools. I run [dee.agency](https://dee.agency), solo design + AI studio for founders.
 
 ---
 
