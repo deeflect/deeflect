@@ -1,26 +1,45 @@
-### Hey, I'm Dee (Dmitry Kargaev)
+### Hi, I'm Dee 👋
 
-Product designer turned AI engineer. Based in LA.
+I design AI products and I build them. End to end. One person.
 
-15+ years of design, where 5+ in fintech. Was the solo product designer at [VALK](https://datai.network/) (now DatAI Network) for 5 years, institutional platform with $4B+ in deals managed on platform, 70+ financial institutions across 15 countries. Before that I led design at Spacecode studio in Moscow, shipping 50+ apps for clients like Kaspersky and OTPBank.
+**AI Engineer + Product Designer** based in Los Angeles. 15 years shipping software. 5 years as the only product designer on [VALK](https://datai.network) (now DatAI Network), a fintech platform used by 70+ financial institutions. Now I architect multi-agent systems, build RAG pipelines, fine-tune models with LoRA, and ship full-stack AI products from idea to production.
 
-Now I'm building AI agent systems, multi-agent architectures, and open-source tools. I run [dee.agency](https://dee.agency), solo design + AI studio for founders.
+I came at AI from product design first. Most of my engineering decisions are really design decisions in different clothes — what to expose, what to hide, who's actually using the thing.
 
 ---
 
-**What I'm working on:**
+### 🐟 Latest
 
-| | |
-|---|---|
-| [McClaw](https://mcclaw.it.com) | Find which local LLMs actually run on your Mac. 340+ models |
-| [codemode](https://cm.deeflect.com) | Give your AI agent any API in ~1,000 tokens. 56 APIs, one MCP server |
-| [dee.ink](https://dee.ink) | 31 Rust CLI tools for AI agents. JSON output, pipe-friendly |
-| [castkit](https://github.com/deeflect/castkit) | CLI demo videos from one command. No recording, no editing |
-| [Smart Spawn](https://ss.deeflect.com) | Intelligent model routing — picks the right LLM per task |
-| [vasted](https://github.com/deeflect/vasted) | GPU inference in one command via Vast.ai |
-| [MoltedIn](https://moltedin.com) | Marketplace for AI sub-agents |
-| [Lobster Tools](https://lobster.tools) | Curated directory of OpenClaw tools |
+**[Dory](https://github.com/deeflect/dory)** — shared memory layer for AI agents. I use Claude, Codex, Hermes, and OpenClaw daily, and they all started every session from zero. So I built the layer underneath: markdown files as the source of truth, SQLite as a disposable index, five verbs. Didn't make my agents smarter — made them continuous. Open-source, MIT, runs locally.
 
-**Stack:** TypeScript, Rust, React, Next.js, Python, SwiftUI, Tailwind, Astro
+---
 
-**Links:** [Website](https://deeflect.com) · [Blog](https://blog.deeflect.com) · [Studio](https://dee.agency) · [LinkedIn](https://linkedin.com/in/dkargaev) · [X](https://x.com/deeflectcom)
+### 📚 Other recent work
+
+- 📖 **[Don't Replace Me](https://dontreplace.me)** — book on surviving the AI job market, March 2026. 24 chapters of practical career advice for non-engineers.
+- 🌐 **[deeflect.com](https://deeflect.com)** — projects, writing, case studies, contact.
+- ✍️ **[blog.deeflect.com](https://blog.deeflect.com)** — AI engineering, multi-agent systems, build logs.
+- 🛠 **[dee.ink](https://dee.ink)** — 31 small Rust CLI tools for AI agents.
+
+---
+
+### 🔧 What I work with
+
+`Multi-agent orchestration` `RAG` `LLM fine-tuning (LoRA)` `Vector databases` `Agentic workflows` `MCP servers`
+`React` `Next.js` `TypeScript` `Python` `Rust` `Solidity` `PostgreSQL` `Docker`
+`Design systems` `UX research` `Figma` `Information architecture`
+
+---
+
+### 🤝 Connect
+
+- 🌐 [deeflect.com](https://deeflect.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dkargaev/)
+- 🐦 [@deeflectcom on X](https://x.com/deeflectcom)
+- 📚 [Goodreads — Don't Replace Me](https://www.goodreads.com/author/show/69455077)
+- 🔖 [Wikidata Q138828544](https://www.wikidata.org/entity/Q138828544)
+- 📧 hi@deeflect.com
+
+---
+
+*Available for AI engineering and senior product/AI design roles — full-time or contract. Based in LA. Remote preferred.*
