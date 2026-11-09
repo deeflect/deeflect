@@ -1,45 +1,35 @@
-### Hi, I'm Dee 👋
+### Hi, I'm Dee
 
-I design AI products and I build them. End to end. One person.
+Design engineer in Los Angeles. I design and build AI products end to end, and ship them.
 
-**AI Engineer + Product Designer** based in Los Angeles. 15 years shipping software. 5 years as the only product designer on [VALK](https://datai.network) (now DatAI Network), a fintech platform used by 70+ financial institutions. Now I architect multi-agent systems, build RAG pipelines, fine-tune models with LoRA, and ship full-stack AI products from idea to production.
+10+ years in product design. For five of them I was the only product designer at [Datai Network (VALK)](https://datai.network), an institutional fintech platform used by 70+ banks, hedge funds and asset managers. Since 2023 I've built the software myself.
 
-I came at AI from product design first. Most of my engineering decisions are really design decisions in different clothes — what to expose, what to hide, who's actually using the thing.
+### Shipped in 2026
 
----
+- [Genvas](https://genvas.app): desktop board for AI image, video, audio and 3D that your coding agent runs over MCP.
+- [Herdtrude](https://www.deeflect.com/apps/herdtrude/): Mac and iPhone app for running coding agents across machines.
+- [Kadr](https://www.dee.agency/case-studies/kadr/): native Mac screen recorder that keeps files small.
+- [Typeset.md](https://www.deeflect.com/apps/typeset/): Mac reader for the .md files agents hand you.
+- [Wattlas](https://wattlas.io): US datacenter megawatts by stage, every figure linked to its filing.
 
-### 🐟 Latest
+### Open source
 
-**[Dory](https://github.com/deeflect/dory)** — shared memory layer for AI agents. I use Claude, Codex, Hermes, and OpenClaw daily, and they all started every session from zero. So I built the layer underneath: markdown files as the source of truth, SQLite as a disposable index, five verbs. Didn't make my agents smarter — made them continuous. Open-source, MIT, runs locally.
+- [Dory](https://github.com/deeflect/dory): shared memory for AI agents. Markdown files are the source of truth and SQLite is a rebuildable index. MIT, runs locally.
+- [mies](https://github.com/deeflect/mies): a design-taste skill for AI agents.
+- [dee.ink](https://dee.ink): small Rust CLI tools for agents.
 
----
+### Writing
 
-### 📚 Other recent work
+- [Don't Replace Me](https://dontreplace.me), a book on the AI job market (2026).
+- Two SSRN papers on generative engine optimization: [SEO-to-GEO Gap](https://doi.org/10.2139/ssrn.6476021) and [SEEN](https://doi.org/10.2139/ssrn.6815500).
+- [blog.deeflect.com](https://blog.deeflect.com)
 
-- 📖 **[Don't Replace Me](https://dontreplace.me)** — book on surviving the AI job market, March 2026. 24 chapters of practical career advice for non-engineers.
-- 🌐 **[deeflect.com](https://deeflect.com)** — projects, writing, case studies, contact.
-- ✍️ **[blog.deeflect.com](https://blog.deeflect.com)** — AI engineering, multi-agent systems, build logs.
-- 🛠 **[dee.ink](https://dee.ink)** — 31 small Rust CLI tools for AI agents.
+### Stack
 
----
+TypeScript, React, Next.js, Astro, Rust, Swift, Tauri, Python, SQLite, Postgres. Claude Code, Codex, MCP, RAG. Figma and design systems.
 
-### 🔧 What I work with
+### Contact
 
-`Multi-agent orchestration` `RAG` `LLM fine-tuning (LoRA)` `Vector databases` `Agentic workflows` `MCP servers`
-`React` `Next.js` `TypeScript` `Python` `Rust` `Solidity` `PostgreSQL` `Docker`
-`Design systems` `UX research` `Figma` `Information architecture`
+[deeflect.com](https://www.deeflect.com) · [LinkedIn](https://www.linkedin.com/in/dkargaev/) · [X](https://x.com/deeflectcom) · hi@deeflect.com
 
----
-
-### 🤝 Connect
-
-- 🌐 [deeflect.com](https://deeflect.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/dkargaev/)
-- 🐦 [@deeflectcom on X](https://x.com/deeflectcom)
-- 📚 [Goodreads — Don't Replace Me](https://www.goodreads.com/author/show/69455077)
-- 🔖 [Wikidata Q138828544](https://www.wikidata.org/entity/Q138828544)
-- 📧 hi@deeflect.com
-
----
-
-*Available for AI engineering and senior product/AI design roles — full-time or contract. Based in LA. Remote preferred.*
+Open to contract, part-time and full-time design engineering roles. Remote, based in LA.
