@@ -2,7 +2,7 @@
 
 Design engineer in Los Angeles. I design and build AI products end to end, and ship them.
 
-10+ years in product design. For five of them I was the only product designer at [Datai Network (VALK)](https://datai.network), an institutional fintech platform used by 70+ banks, hedge funds and asset managers. Since 2023 I've built the software myself.
+10+ years in product design. For five of them I was the only product designer at [Datai Network (VALK)](https://datai.network), an institutional fintech platform used by 70+ banks, hedge funds and asset managers. Since 2021 I've built the software myself.
 
 ### Shipped in 2026
 
@@ -14,9 +14,9 @@ Design engineer in Los Angeles. I design and build AI products end to end, and s
 
 ### Open source
 
-- [Dory](https://github.com/deeflect/dory): shared memory for AI agents. Markdown files are the source of truth and SQLite is a rebuildable index. MIT, runs locally.
 - [mies](https://github.com/deeflect/mies): a design-taste skill for AI agents.
 - [dee.ink](https://dee.ink): small Rust CLI tools for agents.
+- [Dory](https://github.com/deeflect/dory): shared memory for AI agents. Archived in 2026.
 
 ### Writing
 
